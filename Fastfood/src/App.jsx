@@ -69,4 +69,8 @@ function App() {
   );
 }
 export default App;
+<<<<<<< HEAD
+>>>>>>> dev_luis
+=======
+>>>>>>> origin/dev_luis
 >>>>>>> dev_luis
